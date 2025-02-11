@@ -1,4 +1,4 @@
--👋 Hi, I’m Aldrik Ciaputra!
+- 👋 Hi, I’m Aldrik Ciaputra!
 - 👀 I’m passionate about Software Engineering and Artificial Intelligence, always excited to explore the latest tech trends and innovations.
 - 🌱 Currently diving deep into AI algorithms and software development practices, sharpening my skills for future projects.
 - 💞️ I’m looking to collaborate on open-source AI projects or innovative software solutions—let’s build something impactful together!
